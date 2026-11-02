@@ -54,11 +54,11 @@ Like my Pokémon, I'm evolving one stage at a time:
 
 | Stage | What I learned | How |
 | :---: | :--- | :--- |
-| 🥚 **Start** | Programming logic with **block coding** — **MIT App Inventor** (2 school terms) | Built simple mobile apps with blocks |
-| 🔥 **Stage 1** | **HTML, CSS and JavaScript** | Static and interactive web pages |
-| 🔥 **Stage 2** | **PHP, C and Python** | Back-end logic, algorithms, and different programming paradigms |
-| ⚡ **Now** | **MySQL, Java and React Native** (Expo Snack) | Databases, object-oriented programming, and mobile apps |
-| 🚀 **Next** | APIs, Git workflow, and full projects | Building a portfolio |
+|  **Start** | Programming logic with **block coding** — **MIT App Inventor** (2 school terms) | Built simple mobile apps with blocks |
+|  **Stage 1** | **HTML, CSS and JavaScript** | Static and interactive web pages |
+|  **Stage 2** | **PHP, C and Python** | Back-end logic, algorithms, and different programming paradigms |
+|  **Now** | **MySQL, Java and React Native** (Expo Snack) | Databases, object-oriented programming, and mobile apps |
+|  **Next** | APIs, Git workflow, and full projects | Building a portfolio |
 
 ---
 
