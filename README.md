@@ -64,7 +64,7 @@ Like my Pokémon, I'm evolving one stage at a time:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -79,7 +79,7 @@ Like my Pokémon, I'm evolving one stage at a time:
 
 ---
 
-## 🧭 What I Bring to a Team
+##  What I Bring to a Team
 
 -  **Fast learner** — in a short time I went from block coding to web, databases, and mobile
 -  **Broad foundation** — different languages (PHP, C, Python, JavaScript, Java) train my logic and adaptability
@@ -89,7 +89,7 @@ Like my Pokémon, I'm evolving one stage at a time:
 
 ---
 
-## 📊 GitHub
+##  GitHub
 
 <div align="center">
 
