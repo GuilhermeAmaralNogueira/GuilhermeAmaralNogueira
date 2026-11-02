@@ -1,41 +1,49 @@
-# `Hello, world!` 👾
+# Guilherme 
 
-### Developer in progress.
+### `Systems Development Student`
 
-I'm a **Systems Development student** at ETEC, currently in my 2nd year of high school.
+I'm a Systems Development student at **ETEC**
 
-Passionate about technology, programming and building things that make a difference.
+I'm interested in software development, technology and problem-solving. I enjoy exploring new tools, developing projects and turning ideas into practical solutions.
 
----
-
-### `> About me`
-
-- 🎓 Systems Development student at ETEC
-- 💻 Exploring the world of software development
-- 🚀 Always learning and building new projects
-- 🌱 Currently improving my programming skills
-- 📍 Brazil
-
-### `> Technologies & Tools`
-
-**Currently studying and working with:**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6)
-![Arduino](https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=00979D)
-
-### `> GitHub Stats`
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E)
+Currently focused on improving my programming skills and building a solid foundation in software development.
 
 ---
 
-<p align="center">
-  <i>"The best way to learn is to build."</i>
-</p>
+### About me
+
+-  Studying Systems Development at ETEC
+-  Interested in software engineering and application development
+-  Learning by building real projects
+-  Always looking for opportunities to grow and improve
+-  Brazil
+
+### Technologies & Tools
+
+**Languages and technologies I've been studying:**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=777BB4)
+![React Native](https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
+![Arduino](https://img.shields.io/badge/Arduino-161B22?style=flat-square&logo=arduino&logoColor=00979D)
+
+### Featured Projects
+
+I'm constantly working on projects to apply what I learn and develop my skills.
+
+Take a look at my repositories to follow my progress.
+
+### Contact
+
+📩 **Email:** [guilhermeescola690@gmail.com](mailto:guilhermeescola690@gmail.com)
+
+---
+
+<div align="center">
+
+*Learning through practice. Growing through challenges.*
+
+</div>
